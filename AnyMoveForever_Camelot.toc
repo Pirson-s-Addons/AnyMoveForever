@@ -1,0 +1,92 @@
+## Interface: 16001
+## Version: 1.00
+## Author: Pirson
+## Title: |cffd597ffAnyMove Forever|r
+
+# https://warcraft.wiki.gg/wiki/Addon_Categories
+## Category: UI Customization
+## Category-deDE: UI-Anpassung
+## Category-esES: Personalización de la interfaz
+## Category-esMX: Personalización de la interfaz
+## Category-frFR: Personnalisation de l'interface
+## Category-itIT: Personalizzazione dell'interfaccia
+## Category-koKR: UI 사용자 설정
+## Category-ptBR: Personalização da interface
+## Category-ruRU: Настройка интерфейса
+## Category-zhCN: UI自定义
+## Category-zhTW: UI自定義
+## Category-plPL: Personalizacja interfejsu
+## Category-svSE: UI-anpassning
+## Category-noNO: UI-tilpasning
+## Category-csCZ: Přizpůsobení rozhraní
+## Category-nlNL: Interface-aanpassing
+## Category-roRO: Personalizarea interfeței
+## Category-huHU: Felület testreszabása
+## Category-elGR: Προσαρμογή διεπαφής
+## Category-ukUA: Налаштування інтерфейсу
+## Category-daDK: UI-tilpasning
+## Category-fiFI: Käyttöliittymän mukautus
+## Category-skSK: Prispôsobenie rozhrania
+## Category-bgBG: Персонализиране на интерфейса
+## Category-hrHR: Prilagodba sučelja
+## Category-srRS: Prilagođavanje interfejsa
+## Category-slSI: Prilagoditev vmesnika
+## Category-ltLT: Sąsajos pritaikymas
+## Category-lvLV: Saskarnes pielāgošana
+## Category-etEE: Liidese kohandamine
+## Category-idID: Kustomisasi antarmuka
+## Category-msMY: Penyesuaian antara muka
+## Category-faIR: سفارشی‌سازی رابط کاربری
+## Category-heIL: התאמה אישית של הממשק
+## Category-bnBD: ইন্টারফেস কাস্টমাইজেশন
+## Category-urPK: انٹرفیس کی تخصیص
+## Category-taIN: இடைமுகத் தனிப்பயனாக்கம்
+## Category-teIN: ఇంటర్‌ఫేస్ అనుకూలీకరణ
+
+## Notes: |cFF33CCFFMove and resize any window or interface element: windows, HUD and Edit Mode elements.|r
+## Notes-deDE: |cFF33CCFFVerschiebe und skaliere jedes Fenster und Oberflächenelement: Fenster, HUD und Elemente des Bearbeitungsmodus.|r
+## Notes-esES: |cFF33CCFFMueve y cambia de tamaño cualquier ventana o elemento de la interfaz: ventanas, HUD y elementos del Modo Edición.|r
+## Notes-esMX: |cFF33CCFFMueve y cambia de tamaño cualquier ventana o elemento de la interfaz: ventanas, HUD y elementos del Modo Edición.|r
+## Notes-frFR: |cFF33CCFFDéplacez et redimensionnez n'importe quelle fenêtre ou élément d'interface : fenêtres, ATH et éléments du mode Édition.|r
+## Notes-itIT: |cFF33CCFFSposta e ridimensiona qualsiasi finestra o elemento dell'interfaccia: finestre, HUD ed elementi della Modalità modifica.|r
+## Notes-koKR: |cFF33CCFF모든 창과 인터페이스 요소를 옮기고 크기를 조절합니다: 창, HUD, 편집 모드 요소.|r
+## Notes-ptBR: |cFF33CCFFMova e redimensione qualquer janela ou elemento da interface: janelas, HUD e elementos do Modo de Edição.|r
+## Notes-ruRU: |cFF33CCFFПеремещайте и масштабируйте любые окна и элементы интерфейса: окна, HUD и элементы режима редактирования.|r
+## Notes-zhCN: |cFF33CCFF移动并缩放任意窗口或界面元素：窗口、HUD和编辑模式元素。|r
+## Notes-zhTW: |cFF33CCFF移動並縮放任何視窗或介面元素：視窗、HUD與編輯模式元素。|r
+## Notes-plPL: |cFF33CCFFPrzesuwaj i skaluj dowolne okno lub element interfejsu: okna, HUD i elementy trybu edycji.|r
+## Notes-svSE: |cFF33CCFFFlytta och skala alla fönster och gränssnittselement: fönster, HUD och element i redigeringsläget.|r
+## Notes-noNO: |cFF33CCFFFlytt og skaler alle vinduer og grensesnittelementer: vinduer, HUD og elementer i redigeringsmodus.|r
+## Notes-csCZ: |cFF33CCFFPřesouvej a měň velikost libovolného okna či prvku rozhraní: okna, HUD a prvky režimu úprav.|r
+## Notes-nlNL: |cFF33CCFFVerplaats en schaal elk venster of interface-element: vensters, HUD en elementen van de bewerkmodus.|r
+## Notes-roRO: |cFF33CCFFMută și redimensionează orice fereastră sau element de interfață: ferestre, HUD și elemente din modul de editare.|r
+## Notes-huHU: |cFF33CCFFMozgass és méretezz át bármilyen ablakot vagy felületelemet: ablakok, HUD és a szerkesztőmód elemei.|r
+## Notes-elGR: |cFF33CCFFΜετακίνησε και άλλαξε μέγεθος σε κάθε παράθυρο ή στοιχείο διεπαφής: παράθυρα, HUD και στοιχεία της λειτουργίας επεξεργασίας.|r
+## Notes-ukUA: |cFF33CCFFПереміщуйте й масштабуйте будь-які вікна та елементи інтерфейсу: вікна, HUD та елементи режиму редагування.|r
+## Notes-daDK: |cFF33CCFFFlyt og skalér alle vinduer og grænsefladeelementer: vinduer, HUD og elementer i redigeringstilstand.|r
+## Notes-fiFI: |cFF33CCFFSiirrä ja skaalaa mitä tahansa ikkunaa tai käyttöliittymän osaa: ikkunat, HUD ja muokkaustilan osat.|r
+## Notes-skSK: |cFF33CCFFPresúvaj a meň veľkosť ľubovoľného okna či prvku rozhrania: okná, HUD a prvky režimu úprav.|r
+## Notes-bgBG: |cFF33CCFFМести и мащабирай всеки прозорец или елемент от интерфейса: прозорци, HUD и елементи на режима за редакция.|r
+## Notes-hrHR: |cFF33CCFFPomiči i mijenjaj veličinu bilo kojeg prozora ili elementa sučelja: prozori, HUD i elementi načina uređivanja.|r
+## Notes-srRS: |cFF33CCFFPomeraj i menjaj veličinu bilo kog prozora ili elementa interfejsa: prozori, HUD i elementi režima uređivanja.|r
+## Notes-slSI: |cFF33CCFFPremikaj in spreminjaj velikost katerega koli okna ali elementa vmesnika: okna, HUD in elementi načina urejanja.|r
+## Notes-ltLT: |cFF33CCFFPerkelk ir keisk bet kurio lango ar sąsajos elemento dydį: langai, HUD ir redagavimo režimo elementai.|r
+## Notes-lvLV: |cFF33CCFFPārvieto un mērogo jebkuru logu vai saskarnes elementu: logi, HUD un rediģēšanas režīma elementi.|r
+## Notes-etEE: |cFF33CCFFLiiguta ja muuda iga akna või liidese elemendi suurust: aknad, HUD ja muutmisrežiimi elemendid.|r
+## Notes-idID: |cFF33CCFFPindahkan dan ubah ukuran jendela atau elemen antarmuka apa pun: jendela, HUD, dan elemen Mode Edit.|r
+## Notes-msMY: |cFF33CCFFAlih dan ubah saiz mana-mana tetingkap atau elemen antara muka: tetingkap, HUD dan elemen Mod Edit.|r
+## Notes-faIR: |cFF33CCFFهر پنجره یا عنصر رابط کاربری را جابه‌جا و تغییر اندازه دهید: پنجره‌ها، HUD و عناصر حالت ویرایش.|r
+## Notes-heIL: |cFF33CCFFהזז ושנה גודל של כל חלון או רכיב ממשק: חלונות, HUD ורכיבי מצב העריכה.|r
+## Notes-bnBD: |cFF33CCFFযেকোনো উইন্ডো বা ইন্টারফেস উপাদান সরান ও আকার বদলান: উইন্ডো, HUD ও এডিট মোডের উপাদান।|r
+## Notes-urPK: |cFF33CCFFکسی بھی ونڈو یا انٹرفیس عنصر کو منتقل کریں اور سائز بدلیں: ونڈوز، HUD اور ایڈٹ موڈ کے عناصر۔|r
+## Notes-taIN: |cFF33CCFFஎந்த சாளரத்தையும் இடைமுக உறுப்பையும் நகர்த்தி அளவை மாற்றலாம்: சாளரங்கள், HUD மற்றும் திருத்த முறை உறுப்புகள்.|r
+## Notes-teIN: |cFF33CCFFఏ విండోనైనా, ఇంటర్‌ఫేస్ అంశాన్నైనా తరలించండి, పరిమాణం మార్చండి: విండోలు, HUD మరియు ఎడిట్ మోడ్ అంశాలు.|r
+
+## SavedVariables: AnyMoveForeverDB
+
+# Solo WoW Forever: el sufijo _Camelot es el game type que busca ese cliente, y
+# sin un .toc generico ningun otro cliente lista el addon.
+
+Locales.lua
+Elements.lua
+AnyMoveForever.lua
